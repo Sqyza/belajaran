@@ -1,0 +1,28 @@
+.html{
+    margin: 0;
+    padding: 0;
+}
+
+.container_home{
+    
+    /* padding: 20% 30% 50% 40%; */
+    /* margin: 20% 30% 50% 40%; */
+    display: flex;
+
+}
+.container_home .satu{
+    width: 33vw;
+}
+.container_home .dua{
+    width: 33vw;
+}
+.container_home .tiga{
+    width: 33vw;
+    padding-right: 2%;
+}
+
+.container_home .card{
+    background-color: silver;
+    width: 80%;
+    height: 100px;
+}
